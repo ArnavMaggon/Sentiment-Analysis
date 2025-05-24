@@ -41,4 +41,15 @@
 
 ---
 
+## 📦 Installation
 
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/ArnavMaggon/Sentiment-Analysis.git
+   cd Sentiment-Analysis
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirement.txt
+3. **Run The Code**
+   ```bash
+   python sentiment\ analysis.py
