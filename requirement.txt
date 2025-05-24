@@ -1,0 +1,5 @@
+nltk
+opencv-python
+SpeechRecognition
+deepface
+numpy
